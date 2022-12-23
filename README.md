@@ -12,4 +12,4 @@ Neural Networks (CNN, real-valued) are commonly used to do classification and se
 other two complex-valued data-spaces (k-space and complex image) are, on the other hand, mostly unexplored. In those
 dataspaces, a complex-valued Convolutional Neural Network (CV-CNN) can be utilized to do MRI classification directly.
 The major goal of this study is to compare real-valued CNN performance with magnitude images to CV-CNN performance 
-with complex images and CV-CNN performance with k-spac
+with complex images and CV-CNN performance with k-space.
